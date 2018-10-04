@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Max\\source\\repos\\ConsoleApp8\\ConsoleApp8\\ConsoleApp8.csproj",
+      "projectUniqueName": "C:\\Users\\Max\\Documents\\Personal\\Pokemon\\WhoIsTheVeryBestThatNoOneEverWas\\Pokemon\\ConsoleApp8.csproj",
       "projectName": "ConsoleApp8",
-      "projectPath": "C:\\Users\\Max\\source\\repos\\ConsoleApp8\\ConsoleApp8\\ConsoleApp8.csproj",
+      "projectPath": "C:\\Users\\Max\\Documents\\Personal\\Pokemon\\WhoIsTheVeryBestThatNoOneEverWas\\Pokemon\\ConsoleApp8.csproj",
       "packagesPath": "C:\\Users\\Max\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Max\\source\\repos\\ConsoleApp8\\ConsoleApp8\\obj\\",
+      "outputPath": "C:\\Users\\Max\\Documents\\Personal\\Pokemon\\WhoIsTheVeryBestThatNoOneEverWas\\Pokemon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
